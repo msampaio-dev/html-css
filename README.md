@@ -5,4 +5,4 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://msampaio-dev.github.io/html-css/ex001/index.html">Executar o exercício 001</a>
 
-<a hre="https://msampaio-dev.github.io/html-css/ex004/index.html">Executar o exercicio 002</a>
+<a href="https://msampaio-dev.github.io/html-css/ex004/index.html">Executar o exercicio 002</a>
